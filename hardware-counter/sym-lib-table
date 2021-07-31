@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "poop-counter-rescue")(type "Legacy")(uri "${KIPRJMOD}/poop-counter-rescue.lib")(options "")(descr ""))
+)
