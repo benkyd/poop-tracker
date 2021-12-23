@@ -7,6 +7,7 @@ import Styles from '../GlobalStyles.js';
 
 import StartAppContents from './AppView';
 
+
 export default function StartView() {
     // Is user logged in already?
 
